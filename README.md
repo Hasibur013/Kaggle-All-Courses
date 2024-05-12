@@ -1,2 +1,2 @@
-# Intro to Machine Learning
-# Intermediate Machine Learning
+# Kaggle Intro to Machine Learning 
+# Kaggle Intermediate Machine Learning
